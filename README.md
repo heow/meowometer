@@ -6,6 +6,4 @@ It is online at [MeowOMeter.com](http://www.meowometer.com/).  TODO: fix the hot
 
 Basically the [code is just here](https://github.com/heow/meowometer/blob/master/src/meowometer/web.clj).
 
-
-
-
+![Screenshot](<https://raw.githubusercontent.com/heow/meowometer/master/presentation/meowometer.png)
